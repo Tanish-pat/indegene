@@ -1,0 +1,17 @@
+# Ignore .env files
+chatRag/.env
+client/.env
+server/.env
+
+# Ignore node_modules in server and client
+server/node_modules/
+client/node_modules/
+
+# Ignore venv in chatRag
+chatRag/venv/
+
+# Ignore other unnecessary files
+chatRag/trainDataset
+chatRag/env nhi hai
+client/env nhi hai
+server/env nhi hai
